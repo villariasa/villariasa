@@ -18,9 +18,9 @@
 
 ---
 
-### 🛠️ Technical Skills & Technologies
+###  Technical Skills & Technologies
 
-#### 💻 Frontend & Mobile
+####  Frontend & Mobile
 <p align="left">
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
 
-#### 🖥️ Backend & Desktop Architecture
+####  Backend & Desktop Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PYSIDE6%20%2F%20QT6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt6"/>
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/DATABASE_MIGRATION-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="DB Migration"/>
 </p>
 
-#### ⚙️ DevOps, Tools & Systems
+####  DevOps, Tools & Systems
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-#### 🤖 AI & Modern Workflows
+####  AI & Modern Workflows
 <p align="left">
   <img src="https://img.shields.io/badge/OPENAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
@@ -75,15 +75,15 @@
 
 ---
 
-### 🚀 Highlights & Featured Architecture:
-- 🏢 **Software Developer** at **Litecloud Corporation**
-- 🌟 **Creator & Architect** of *Jayraldine's Catering ERP System & Tablet POS* — A distributed, enterprise-grade multi-machine LAN system with automated PostgreSQL failover, offline-to-cloud sync, and real-time operational analytics.
-- 🏛️ **Government & Enterprise Systems (LGU)** — Architecture of high-reliability records, taxation, billing, and transactional platforms.
-- 🔄 **Cross-Platform Engineering** — Expert in unifying Desktop (Qt/PySide6, Electron), Web (React, Angular, Next.js), and Mobile (Android) applications.
+###  Highlights & Featured Architecture:
+-  **Software Developer** at **Litecloud Corporation**
+-  **Creator & Architect** of *Jayraldine's Catering ERP System & Tablet POS* — A distributed, enterprise-grade multi-machine LAN system with automated PostgreSQL failover, offline-to-cloud sync, and real-time operational analytics.
+-  **Government & Enterprise Systems (LGU)** — Architecture of high-reliability records, taxation, billing, and transactional platforms.
+-  **Cross-Platform Engineering** — Expert in unifying Desktop (Qt/PySide6, Electron), Web (React, Angular, Next.js), and Mobile (Android) applications.
 
 ---
 
-### 📊 GitHub Activity & Statistics:
+###  GitHub Activity & Statistics:
 
 <div align="center">
 
@@ -98,7 +98,7 @@
 
 ---
 
-### 💰 Support My Work:
+###  Support My Work:
 
 <p align="left">
   <a href="https://buymeacoffee.com" target="_blank">
