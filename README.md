@@ -26,8 +26,6 @@
 ```yaml
 Name: Medy B. Villarias (Sung Jinwoo)
 Role: Software Developer @ Litecloud Corporation
-Focus: High-Performance Desktop & Mobile Apps | Offline-First Enterprise Sync
-Mission: "Arise" — Transforming complex distributed workflows into seamless software.
 Location: Philippines 🇵🇭
 ```
 
