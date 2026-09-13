@@ -5,50 +5,129 @@
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/villariasa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6366F1&center=true&vCenter=true&width=550&lines=Software+Developer+at+Litecloud+Corporation;Full-Stack+%26+Desktop+Systems+Architect;Specialist+in+Offline-First+Sync+%26+PostgreSQL;Creator+of+Jayraldine%27s+Catering+ERP;Arise+--+Building+Resilient+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6366F1&center=true&vCenter=true&width=620&lines=Software+Developer+at+Litecloud+Corporation;4%2B+Years+Experience+Building+Production+Systems;Full-Stack+%26+Distributed+Desktop%2FMobile+Architect;Specialist+in+Offline-First+Sync+%26+High-Availability+DBs;Arise+--+Engineering+Resilient+Software+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE COUNTER & STATUS BADGES -->
+<!-- PROFILE STATS BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=villariasa&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="4+ Years Experience" />
   <img src="https://img.shields.io/badge/Company-Litecloud%20Corporation-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Litecloud Corporation" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Distributed%20Systems-10B981?style=for-the-badge" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=villariasa&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💼 Executive Summary
 
-```yaml
-Name: Medy B. Villarias (Sung Jinwoo)
-Role: Software Developer @ Litecloud Corporation
-Location: Philippines 🇵🇭
-```
-
-- 🏢 **Current Company**: Software Developer at **Litecloud Corporation**
-- 🔭 **Featured Work**: Architect & Creator of **Jayraldine's Catering ERP System** (Multi-Terminal POS with Hybrid LAN Sync)
-- ⚡ **Specialties**: Offline-First Distributed Data Replication, PostgreSQL Concurrency, PySide6/Qt Desktop Engines, Android Native/PWA bridges
-- 💬 **Ask me about**: Python, Qt, PostgreSQL optimization, SQLite fallback caching, Windows socket servers & firewall automation
+<table width="100%">
+  <tr>
+    <td width="72%" valign="top">
+      <h3>🚀 Senior Systems & Full-Stack Software Developer</h3>
+      <p>
+        Software Developer with <b>4+ years of experience</b> engineering mission-critical desktop suites, high-concurrency database backends, and full-stack web/mobile platforms. Proven track record in architecting <b>distributed offline-first synchronization engines</b>, automated network discovery protocols, and resilient commercial ERP/POS systems.
+      </p>
+      <p>
+        🏢 <b>Current Role:</b> Software Developer @ <b>Litecloud Corporation</b><br/>
+        ⚡ <b>Core Focus:</b> Offline-First Synchronization &bull; PostgreSQL Optimization &bull; Cross-Platform Desktop/Mobile<br/>
+        📍 <b>Location:</b> Philippines 🇵🇭
+      </p>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Track%20Record-4%2B%20Years-indigo?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/Architecture-Distributed%20LAN-orange?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/Systems-Production%20Ready-success?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🏛️ Core Engineering Competencies
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ System Architecture & Distributed Sync</h4>
+      <ul>
+        <li><b>Offline-First Data Replication:</b> Designed custom multi-node synchronization engines bridging desktop and handheld devices.</li>
+        <li><b>Optimistic Concurrency & Locking:</b> Version-controlled vector clocks and conflict resolution avoiding race conditions.</li>
+        <li><b>Hybrid Dual-Storage:</b> Zero-downtime fallback switching between PostgreSQL and local SQLite/IndexedDB caches.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Database Engineering & Reliability</h4>
+      <ul>
+        <li><b>High-Performance PostgreSQL & MSSQL:</b> Complex schema design, partial indexing, and query execution plan tuning.</li>
+        <li><b>Background Service Daemons:</b> Autonomous health monitors, connection pooling, and automated keep-alive pinging.</li>
+        <li><b>Zero-Loss Data Integrity:</b> Cryptographic audit trail hashing, transaction isolation, and automated backup routines.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖥️ Desktop & Mobile Client Engineering</h4>
+      <ul>
+        <li><b>PySide6 / Qt Native Applications:</b> Asynchronous UI threading (60 FPS), custom styling engines, and dynamic theme switching.</li>
+        <li><b>Handheld Android & PWA:</b> Native WebView-to-Java bridges, offline Service Workers, and multi-subnet network discovery.</li>
+        <li><b>Hardware & Network Automation:</b> ESC/POS receipt printing, one-click Windows Firewall provisioning, and UAC elevation.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack Web & API Microservices</h4>
+      <ul>
+        <li><b>Modern Frontend Frameworks:</b> React, Next.js, and Angular integrated with responsive Figma design systems.</li>
+        <li><b>Backend Microservices:</b> NestJS and Python REST API endpoints with secure token authorization and rate limiting.</li>
+        <li><b>DevOps & Deployment:</b> Inno Setup installer packaging, PyInstaller executable builds, and Git version control workflows.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Career & Production Milestones
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Software Developer — Litecloud Corporation</h4>
+      <p><i>Enterprise Cloud & Software Solutions &bull; Present</i></p>
+      <ul>
+        <li>Developing high-performance software applications and scalable enterprise services.</li>
+        <li>Collaborating on robust architectures, secure API endpoints, and client-centric solutions.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌟 Lead Systems Architect — Jayraldine's Catering ERP</h4>
+      <p><i>Commercial Production Deployment &bull; Multi-Terminal Suite</i></p>
+      <ul>
+        <li>Designed and deployed an end-to-end commercial ERP with mobile waiter tablet synchronization.</li>
+        <li>Engineered hybrid LAN sync protocol v2 ensuring 100% offline uptime across banquet events.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tooling Matrix
 
 <div align="center">
 
-<!-- SLEEK ICON BAR -->
+<!-- MODERN ICON RIBBON -->
 <img src="https://skillicons.dev/icons?i=python,qt,postgres,sqlite,react,angular,nextjs,nestjs,js,ts,html,css,android,git,figma&theme=dark" alt="Tech Stack Icons" />
 
 <br/><br/>
 
-<!-- CATEGORIZED BADGES -->
+<!-- CATEGORIZED BADGES MATRIX -->
 <table>
   <tr>
-    <td align="center" width="25%"><b>💻 Frontend & UI</b></td>
+    <td align="center" width="22%"><b>💻 Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
@@ -60,7 +139,7 @@ Location: Philippines 🇵🇭
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%"><b>⚙️ Backend & APIs</b></td>
+    <td align="center" width="22%"><b>⚙️ Backend & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
@@ -69,7 +148,7 @@ Location: Philippines 🇵🇭
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%"><b>🗄️ Databases & Storage</b></td>
+    <td align="center" width="22%"><b>🗄️ Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/POSTGRES-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
@@ -78,7 +157,7 @@ Location: Philippines 🇵🇭
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%"><b>📱 Desktop & Mobile</b></td>
+    <td align="center" width="22%"><b>📱 Platforms</b></td>
     <td>
       <img src="https://img.shields.io/badge/PYSIDE6%20%2F%20QT-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6 / Qt"/>
       <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
@@ -87,7 +166,7 @@ Location: Philippines 🇵🇭
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%"><b>🛠️ DevOps & Tooling</b></td>
+    <td align="center" width="22%"><b>🛠️ Tooling</b></td>
     <td>
       <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -98,33 +177,6 @@ Location: Philippines 🇵🇭
 </table>
 
 </div>
-
----
-
-### 🚀 Highlighted Project Architecture
-
-<table>
-  <tr>
-    <td>
-      <h3>🍽️ Jayraldine's Catering ERP & Tablet POS Kiosk</h3>
-      <p>
-        An enterprise catering management ecosystem delivering zero-downtime booking workflows, banquet package builders, and inventory tracking across connected cashier stations and mobile waiter tablets.
-      </p>
-      <ul>
-        <li><b>Enterprise LAN Synchronization:</b> Bidirectional multi-terminal sync engine connecting desktop clients to Android tablets via local Wi-Fi.</li>
-        <li><b>Offline-First Dual Storage:</b> Seamless automatic fallback between PostgreSQL 16+ and local SQLite / IndexedDB queues during network drops.</li>
-        <li><b>Automated Network Setup:</b> One-click administrative Windows Firewall rule deployment & subnet broadcast discovery.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/Android%20APK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -156,7 +208,7 @@ Location: Philippines 🇵🇭
 
 ---
 
-### 💰 Support My Open-Source Work
+### 💰 Support & Sponsorship
 
 <div align="center">
 
@@ -176,6 +228,6 @@ Location: Philippines 🇵🇭
 <!-- FOOTER WAVING GRADIENT BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%" alt="Footer Banner" />
 
-<i>"Arise — Turning complex systems into resilient, high-speed reality."</i>
+<i>"Arise — Turning complex distributed systems into resilient, high-speed reality."</i>
 
 </div>
