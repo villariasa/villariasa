@@ -2,6 +2,11 @@
 
 # Hi there, I'm Medy B. Villarias 👋
 ### Software Engineer | Full-Stack & Desktop / Mobile Developer 🚀
+#### 🏢 Currently working at **Litecloud Corporation**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Company-Litecloud%20Corporation-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Litecloud Corporation" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MICROSOFT%20SQL%20SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
@@ -26,11 +31,17 @@
 
 ---
 
+### 💼 Experience & Roles:
+- 🏢 **Software Developer** at **Litecloud Corporation**
+- 🌟 **Creator & Lead Architect** of *Jayraldine's Catering ERP & Tablet POS System*
+
+---
+
 ### 🏆 Achievements:
 
 - **Philippine Startup Challenge 9** – Top 25 Finalist Region 7
 - **3rd Place** – Cebu Interschool Hackathon 2024 By CIB.O
-- **Creator & Lead Architect** of *Jayraldine's Catering ERP & Tablet POS System* (Multi-Terminal LAN Sync with PostgreSQL & SQLite)
+- **Enterprise LAN Architecture** – Multi-Terminal Offline-First Synchronization Engine with PostgreSQL & SQLite
 
 ---
 
