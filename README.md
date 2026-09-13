@@ -31,7 +31,7 @@
 
 ---
 
-### 💼 Experience & Roles:
+### 💼 Experience & Projects:
 - 🏢 **Software Developer** at **Litecloud Corporation**
 - 🌟 **Creator & Lead Architect** of *Jayraldine's Catering ERP & Tablet POS System*
 
@@ -39,9 +39,7 @@
 
 ### 🏆 Achievements:
 
-- **Philippine Startup Challenge 9** – Top 25 Finalist Region 7
-- **3rd Place** – Cebu Interschool Hackathon 2024 By CIB.O
-- **Enterprise LAN Architecture** – Multi-Terminal Offline-First Synchronization Engine with PostgreSQL & SQLite
+- 🚀 **Enterprise LAN Architecture** – Designed and deployed a multi-terminal offline-first synchronization engine bridging desktop clients and handheld Android tablets with PostgreSQL & SQLite
 
 ---
 
