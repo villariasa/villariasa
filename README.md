@@ -180,239 +180,78 @@ Hotel-facing UI project built with JavaScript, HTML, and CSS.
 </p>
 
 <p align="center">
-  <sub>GitHub READMEs render static Markdown/HTML only — no JavaScript runs here, so a real animated sliding toggle isn't possible in this file. The pills above jump to each section, and each list below is wrapped in a native <code>&lt;details&gt;</code> element, which is the closest GitHub-native equivalent to a functional expand/collapse tab.</sub>
+  <sub>Each row below auto-scrolls in a single continuous line (pure CSS animation inside a self-contained SVG — no JavaScript, works natively on GitHub). The pills above and the <code>&lt;details&gt;</code> toggles below are the actual user-clickable interaction: GitHub renders static Markdown/HTML, so a JS-driven animated tab switch isn't possible here — expand/collapse is the closest real equivalent.</sub>
 </p>
 
 <a name="anime-watchlist"></a>
 <details open>
-<summary><b>▸ Anime Watchlist (20)</b></summary>
+<summary><b>▸ Anime Watchlist (20)</b> — click to collapse</summary>
 <br/>
 
-<table>
-<tr>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/151807"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-it355ZgzquUd.png" width="100" alt="Solo Leveling cover art"/></a><br/>
-  <b>Solo Leveling</b><br/><sub>★ Favorite</sub><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/269"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png" width="100" alt="Bleach cover art"/></a><br/>
-  <b>Bleach</b><br/><sub>★ Favorite</sub><br/>
-  <sub>Action / Supernatural</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/20605"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg" width="100" alt="Tokyo Ghoul cover art"/></a><br/>
-  <b>Tokyo Ghoul</b><br/><sub>★ Favorite</sub><br/>
-  <sub>Dark Fantasy / Horror</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/113415"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg" width="100" alt="Jujutsu Kaisen cover art"/></a><br/>
-  <b>Jujutsu Kaisen</b><br/><sub>★ Favorite</sub><br/>
-  <sub>Action / Supernatural</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/101280"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg" width="100" alt="That Time I Got Reincarnated as a Slime cover art"/></a><br/>
-  <b>That Time I Got Reincarnated as a Slime</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/108465"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg" width="100" alt="Mushoku Tensei: Jobless Reincarnation cover art"/></a><br/>
-  <b>Mushoku Tensei: Jobless Reincarnation</b><br/>
-  <sub>Adventure / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/21355"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg" width="100" alt="Re:ZERO -Starting Life in Another World- cover art"/></a><br/>
-  <b>Re:ZERO -Starting Life in Another World-</b><br/>
-  <sub>Fantasy / Psychological</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/20832"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20832-vUNm5zrYWifc.jpg" width="100" alt="Overlord cover art"/></a><br/>
-  <b>Overlord</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/130298"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg" width="100" alt="The Eminence in Shadow cover art"/></a><br/>
-  <b>The Eminence in Shadow</b><br/>
-  <sub>Action / Comedy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/11757"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg" width="100" alt="Sword Art Online cover art"/></a><br/>
-  <b>Sword Art Online</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/21202"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png" width="100" alt="KonoSuba cover art"/></a><br/>
-  <b>KonoSuba</b><br/>
-  <sub>Adventure / Comedy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/19815"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg" width="100" alt="No Game No Life cover art"/></a><br/>
-  <b>No Game No Life</b><br/>
-  <sub>Adventure / Comedy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/99263"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg" width="100" alt="The Rising of the Shield Hero cover art"/></a><br/>
-  <b>The Rising of the Shield Hero</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/101922"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg" width="100" alt="Demon Slayer: Kimetsu no Yaiba cover art"/></a><br/>
-  <b>Demon Slayer: Kimetsu no Yaiba</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/16498"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg" width="100" alt="Attack on Titan cover art"/></a><br/>
-  <b>Attack on Titan</b><br/>
-  <sub>Action / Drama</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/1735"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png" width="100" alt="Naruto / Naruto: Shippuden cover art"/></a><br/>
-  <b>Naruto / Naruto: Shippuden</b><br/>
-  <sub>Action / Adventure</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/21"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg" width="100" alt="One Piece cover art"/></a><br/>
-  <b>One Piece</b><br/>
-  <sub>Action / Adventure</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/136"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg" width="100" alt="Hunter x Hunter cover art"/></a><br/>
-  <b>Hunter x Hunter</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/5114"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg" width="100" alt="Fullmetal Alchemist: Brotherhood cover art"/></a><br/>
-  <b>Fullmetal Alchemist: Brotherhood</b><br/>
-  <sub>Action / Drama</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/anime/112301"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112301-f88Fs2es4pSr.jpg" width="100" alt="The Misfit of Demon King Academy cover art"/></a><br/>
-  <b>The Misfit of Demon King Academy</b><br/>
-  <sub>Action / Comedy</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/anime-marquee.svg" alt="Auto-scrolling row of anime cover art: Solo Leveling, Bleach, Tokyo Ghoul, Jujutsu Kaisen, and 16 more" width="100%"/>
+</p>
+
+<sub>
+
+1. [Solo Leveling](https://anilist.co/anime/151807) ★  
+2. [Bleach](https://anilist.co/anime/269) ★  
+3. [Tokyo Ghoul](https://anilist.co/anime/20605) ★  
+4. [Jujutsu Kaisen](https://anilist.co/anime/113415) ★  
+5. [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280)  
+6. [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)  
+7. [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355)  
+8. [Overlord](https://anilist.co/anime/20832)  
+9. [The Eminence in Shadow](https://anilist.co/anime/130298)  
+10. [Sword Art Online](https://anilist.co/anime/11757)  
+11. [KonoSuba](https://anilist.co/anime/21202)  
+12. [No Game No Life](https://anilist.co/anime/19815)  
+13. [The Rising of the Shield Hero](https://anilist.co/anime/99263)  
+14. [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)  
+15. [Attack on Titan](https://anilist.co/anime/16498)  
+16. [Naruto / Naruto: Shippuden](https://anilist.co/anime/1735)  
+17. [One Piece](https://anilist.co/anime/21)  
+18. [Hunter x Hunter](https://anilist.co/anime/136)  
+19. [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114)  
+20. [The Misfit of Demon King Academy](https://anilist.co/anime/112301)
+
+</sub>
 
 </details>
 
 <a name="manhwa-reading-rotation"></a>
 <details>
-<summary><b>▸ Manhwa Reading Rotation (20)</b></summary>
+<summary><b>▸ Manhwa Reading Rotation (20)</b> — click to expand</summary>
 <br/>
 
-<table>
-<tr>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/163824"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx163824-KiablxybJD6i.jpg" width="100" alt="Revenge of the Iron-Blooded Sword Hound cover art"/></a><br/>
-  <b>Revenge of the Iron-Blooded Sword Hound</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/118424"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118424-JbTApgnIP1ON.jpg" width="100" alt="The Great Mage Returns After 4000 Years cover art"/></a><br/>
-  <b>The Great Mage Returns After 4000 Years</b><br/>
-  <sub>Action / Adventure</sub>
-</td>
-<td align="center" width="20%">
-  <b>Necromancer's Evolutionary Traits</b><br/>
-  <sub>Cover art could not be verified — omitted rather than guessed</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/168823"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx168823-ehslkXrDOGu8.png" width="100" alt="The Reincarnated Assassin Is a Genius Swordsman cover art"/></a><br/>
-  <b>The Reincarnated Assassin Is a Genius Swordsman</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/86848"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86848-4CSItSclJUvi.jpg" width="100" alt="Lookism cover art"/></a><br/>
-  <b>Lookism</b><br/><sub>★ Favorite</sub><br/>
-  <sub>Action / Comedy / Drama</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/170400"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170400-yMIuOIboWuoO.jpg" width="100" alt="Star-Embracing Swordmaster cover art"/></a><br/>
-  <b>Star-Embracing Swordmaster</b><br/>
-  <sub>Action / Adventure</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/143056"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx143056-MEpVxW7346jz.jpg" width="100" alt="The Return of the Disaster-Class Hero cover art"/></a><br/>
-  <b>The Return of the Disaster-Class Hero</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <b>Regression Instruction Manual</b><br/>
-  <sub>Cover art could not be verified — omitted rather than guessed</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/106929"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106929-flAUvHZDUz5v.jpg" width="100" alt="Eleceed cover art"/></a><br/>
-  <b>Eleceed</b><br/><sub>★ Favorite</sub><br/>
-  <sub>Action / Comedy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/182066"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg" width="100" alt="The Regressed Mercenary's Machinations cover art"/></a><br/>
-  <b>The Regressed Mercenary's Machinations</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/180891"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx180891-ZBbyOWSYI41R.jpg" width="100" alt="Absolute Regression cover art"/></a><br/>
-  <b>Absolute Regression</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/188225"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx188225-tSXdlIvgmt3H.jpg" width="100" alt="Catastrophic Necromancer cover art"/></a><br/>
-  <b>Catastrophic Necromancer</b><br/>
-  <sub>Action / Fantasy</sub><br/><sub>AniList lists it as "How to Retire as the Disaster-Class Necromancer"</sub>
-</td>
-<td align="center" width="20%">
-  <b>Chronicles of the Martial Gods' Return</b><br/>
-  <sub>Cover art could not be verified — omitted rather than guessed</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/124577"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx124577-UkF19gsGyBoG.jpg" width="100" alt="Return to Player cover art"/></a><br/>
-  <b>Return to Player</b><br/>
-  <sub>Action / Adventure</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/151460"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx151460-Cb2CXwN2ZElE.jpg" width="100" alt="Absolute Sword Sense cover art"/></a><br/>
-  <b>Absolute Sword Sense</b><br/>
-  <sub>Action / Fantasy</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/119521"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119521-qYqxFvn0NnXo.png" width="100" alt="Legend of the Northern Blade cover art"/></a><br/>
-  <b>Legend of the Northern Blade</b><br/>
-  <sub>Action / Adventure</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/177706"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx177706-3r8dnAr8Prjq.jpg" width="100" alt="Eternally Regressing Knight cover art"/></a><br/>
-  <b>Eternally Regressing Knight</b><br/>
-  <sub>Action / Fantasy</sub><br/><sub>AniList lists it as "The Knight Only Lives Today" — closest match found</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/159930"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159930-qK1P4BNQL0zG.jpg" width="100" alt="Infinite Mage cover art"/></a><br/>
-  <b>Infinite Mage</b><br/>
-  <sub>Action / Adventure</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/141705"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141705-2OMBDYY5Tguc.jpg" width="100" alt="Reality Quest cover art"/></a><br/>
-  <b>Reality Quest</b><br/>
-  <sub>Action / Supernatural</sub>
-</td>
-<td align="center" width="20%">
-  <a href="https://anilist.co/manga/132144"><img src="https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132144-i5B4VnG9sRgh.png" width="100" alt="Return of the Mount Hua Sect cover art"/></a><br/>
-  <b>Return of the Mount Hua Sect</b><br/><sub>★ Favorite</sub><br/>
-  <sub>Action / Adventure</sub><br/><sub>AniList lists it as "Return of the Blossoming Blade"</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/manhwa-marquee.svg" alt="Auto-scrolling row of manhwa cover art: Lookism, Eleceed, Return of the Mount Hua Sect, and 14 more verified covers" width="100%"/>
+</p>
+
+<sub>
+
+1. [Revenge of the Iron-Blooded Sword Hound](https://anilist.co/manga/163824)  
+2. [The Great Mage Returns After 4000 Years](https://anilist.co/manga/118424)  
+3. Necromancer's Evolutionary Traits <sub>(cover unverified)</sub>  
+4. [The Reincarnated Assassin Is a Genius Swordsman](https://anilist.co/manga/168823)  
+5. [Lookism](https://anilist.co/manga/86848) ★  
+6. [Star-Embracing Swordmaster](https://anilist.co/manga/170400)  
+7. [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056)  
+8. Regression Instruction Manual <sub>(cover unverified)</sub>  
+9. [Eleceed](https://anilist.co/manga/106929) ★  
+10. [The Regressed Mercenary's Machinations](https://anilist.co/manga/182066)  
+11. [Absolute Regression](https://anilist.co/manga/180891)  
+12. [Catastrophic Necromancer](https://anilist.co/manga/188225)  
+13. Chronicles of the Martial Gods' Return <sub>(cover unverified)</sub>  
+14. [Return to Player](https://anilist.co/manga/124577)  
+15. [Absolute Sword Sense](https://anilist.co/manga/151460)  
+16. [Legend of the Northern Blade](https://anilist.co/manga/119521)  
+17. [Eternally Regressing Knight](https://anilist.co/manga/177706)  
+18. [Infinite Mage](https://anilist.co/manga/159930)  
+19. [Reality Quest](https://anilist.co/manga/141705)  
+20. [Return of the Mount Hua Sect](https://anilist.co/manga/132144) ★
+
+</sub>
 
 </details>
 
