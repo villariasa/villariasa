@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=SHADOW%20MONARCH&fontSize=60&fontColor=B983FF&animation=twinkling&fontAlignY=38&desc=%22I%20alone%20level%20up.%22&descAlignY=58&descSize=20&descColor=8A2BE2" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3200&pause=900&color=B983FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Software+Developer+%40+Litecloud+Corporation;Rank%3A+S+%7C+Class%3A+Full-Stack+Architect;%22Arise.%22" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3200&pause=900&color=B983FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Medy+B.+Villarias+%E2%80%94+a.k.a.+%22Mr.+Sung+Jinwoo%22;Software+Developer+%40+Litecloud+Corporation;Rank%3A+S+%7C+Class%3A+Full-Stack+Architect;%22I+don't+like+this...+I+like+this.%22;%22Arise.%22" alt="typing-svg" />
 
 <br/>
 
@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/JOB-SHADOW_ARCHITECT-6A0DAD?style=for-the-badge&labelColor=0F0C29" alt="job"/>
 <img src="https://img.shields.io/badge/GUILD-LITECLOUD-4B0082?style=for-the-badge&labelColor=0F0C29" alt="guild"/>
 <img src="https://img.shields.io/badge/STATUS-LEVELING_UP-B983FF?style=for-the-badge&labelColor=0F0C29" alt="status"/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=villariasa&label=DUNGEON+ENTRIES&color=8A2BE2&style=for-the-badge&labelColor=0F0C29" alt="profile views"/>
 
 </div>
 
@@ -22,18 +24,21 @@
 </div>
 
 ```yaml
-┌──────────────────────────────────────────────────────┐
-│  NAME        : Medy                                   │
-│  TITLE       : The Full-Stack Monarch                 │
-│  CLASS       : Desktop / Web / Database Architect      │
-│  LEVEL       : 4+ Years (Still Ascending)              │
-│  LOCATION    : Philippines                              │
-│  GUILD       : Litecloud Corporation                    │
-│  ACTIVE QUESTS:                                        │
-│     ▸ [S] Leasing Management Platform                  │
-│     ▸ [A] Cerpsys — POS & Inventory System              │
-│     ▸ [A] CaterSync-AI — Catering ERP                   │
-└──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│  NAME        : Medy B. Villarias                          │
+│  ALIAS       : Mr. Sung Jinwoo  (yes, it's on the profile) │
+│  TITLE       : The Full-Stack Monarch                     │
+│  CLASS       : Desktop / Web / Database Architect          │
+│  LEVEL       : 4+ Years (Still Ascending)                  │
+│  GUILD       : Litecloud Corporation                        │
+│  HP / MP     : Coffee-fed  /  Regenerates on deploy          │
+│  ACTIVE QUESTS:                                            │
+│     ▸ [S] Leasing Management Platform                      │
+│     ▸ [A] Cerpsys — POS & Inventory System                  │
+│     ▸ [A] CaterSync-AI — Multi-tenant Catering ERP           │
+│     ▸ [B] jayraldinescateringsystem — Python ops backend      │
+│  TITLE UNLOCKED : "This code is brought to you by bugs."      │
+└──────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -44,7 +49,7 @@
 
 > *"He was once an ordinary developer, until he awakened in the depths of legacy Delphi codebases and multi-database dungeons no one else dared to enter."*
 
-I design and maintain **distributed, multi-machine systems end to end** — from PostgreSQL/MSSQL schemas and stored procedures, up through Electron/Qt desktop clients and React/Next.js web interfaces. Currently running three parallel raids: a **leasing management platform**, a **POS & inventory system (Cerpsys)**, and a **catering ERP (CaterSync-AI)**.
+I design and maintain **distributed, multi-machine systems end to end** — from PostgreSQL/MSSQL schemas and stored procedures, up through Electron/Qt desktop clients and React/Next.js/Svelte web interfaces. Currently running four parallel raids: a **leasing management platform**, a **POS & inventory system (Cerpsys)**, a **catering ERP (CaterSync-AI)**, and a Python-based operations backend (**jayraldinescateringsystem**).
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=3&width=900" alt="divider"/>
@@ -60,6 +65,29 @@ VIT  Frontend / UI Systems   ▰▰▰▰▰▰▰▱▱▱  78%
 PER  System Design           ▰▰▰▰▰▰▰▰▱▱  88%
 LUK  Deadline Survival       ▰▰▰▰▰▰▰▱▱▱  74%
 ```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=3&width=900" alt="divider"/>
+</div>
+
+## ⛧ SHADOW EXTRACTION — SUMMONED PROJECTS
+
+<p align="center">
+  <a href="https://github.com/villariasa/CaterSync-AI">
+    <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/pin/?username=villariasa&repo=CaterSync-AI&theme=tokyonight&bg_color=0F0C29&title_color=B983FF&icon_color=8A2BE2&text_color=c9d1d9&border_color=302B63&border_radius=10" alt="CaterSync-AI"/>
+  </a>
+  <a href="https://github.com/villariasa/jayraldinescateringsystem">
+    <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/pin/?username=villariasa&repo=jayraldinescateringsystem&theme=tokyonight&bg_color=0F0C29&title_color=B983FF&icon_color=8A2BE2&text_color=c9d1d9&border_color=302B63&border_radius=10" alt="jayraldinescateringsystem"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/villariasa/inventory-testing">
+    <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/pin/?username=villariasa&repo=inventory-testing&theme=tokyonight&bg_color=0F0C29&title_color=B983FF&icon_color=8A2BE2&text_color=c9d1d9&border_color=302B63&border_radius=10" alt="inventory-testing"/>
+  </a>
+  <a href="https://github.com/villariasa/Hotel-Management">
+    <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/pin/?username=villariasa&repo=Hotel-Management&theme=tokyonight&bg_color=0F0C29&title_color=B983FF&icon_color=8A2BE2&text_color=c9d1d9&border_color=302B63&border_radius=10" alt="Hotel-Management"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:0F0C29&height=3&width=900" alt="divider"/>
@@ -82,6 +110,7 @@ LUK  Deadline Survival       ▰▰▰▰▰▰▰▱▱▱  74%
 
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -91,6 +120,7 @@ LUK  Deadline Survival       ▰▰▰▰▰▰▰▱▱▱  74%
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/PYSIDE6%20%2F%20QT6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt6"/>
   <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -121,6 +151,12 @@ LUK  Deadline Survival       ▰▰▰▰▰▰▰▱▱▱  74%
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=villariasa&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
+</p>
+
+## ⛧ THE RIFT — LIVE ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=villariasa&theme=react-dark&bg_color=0F0C29&color=B983FF&line=8A2BE2&point=ffffff&area=true&area_color=6A0DAD&hide_border=true" alt="activity graph"/>
 </p>
 
 ## ⛧ SHADOW ARMY — CONTRIBUTION GRAPH
@@ -220,5 +256,3 @@ jobs:
 <div align="center">
   <sub><i>"Arise."</i></sub>
 </div>
-</content>
-</invoke>
