@@ -192,30 +192,26 @@ Hotel-facing UI project built with JavaScript, HTML, and CSS.
   <img src="assets/anime-marquee.svg" alt="Auto-scrolling row of anime cover art: Solo Leveling, Bleach, Tokyo Ghoul, Jujutsu Kaisen, and 16 more" width="100%"/>
 </p>
 
-<sub>
-
-1. [Solo Leveling](https://anilist.co/anime/151807) ★  
-2. [Bleach](https://anilist.co/anime/269) ★  
-3. [Tokyo Ghoul](https://anilist.co/anime/20605) ★  
-4. [Jujutsu Kaisen](https://anilist.co/anime/113415) ★  
-5. [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280)  
-6. [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)  
-7. [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355)  
-8. [Overlord](https://anilist.co/anime/20832)  
-9. [The Eminence in Shadow](https://anilist.co/anime/130298)  
-10. [Sword Art Online](https://anilist.co/anime/11757)  
-11. [KonoSuba](https://anilist.co/anime/21202)  
-12. [No Game No Life](https://anilist.co/anime/19815)  
-13. [The Rising of the Shield Hero](https://anilist.co/anime/99263)  
-14. [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)  
-15. [Attack on Titan](https://anilist.co/anime/16498)  
-16. [Naruto / Naruto: Shippuden](https://anilist.co/anime/1735)  
-17. [One Piece](https://anilist.co/anime/21)  
-18. [Hunter x Hunter](https://anilist.co/anime/136)  
-19. [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114)  
+1. [Solo Leveling](https://anilist.co/anime/151807) ★ Favorite
+2. [Bleach](https://anilist.co/anime/269) ★ Favorite
+3. [Tokyo Ghoul](https://anilist.co/anime/20605) ★ Favorite
+4. [Jujutsu Kaisen](https://anilist.co/anime/113415) ★ Favorite
+5. [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280)
+6. [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)
+7. [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355)
+8. [Overlord](https://anilist.co/anime/20832)
+9. [The Eminence in Shadow](https://anilist.co/anime/130298)
+10. [Sword Art Online](https://anilist.co/anime/11757)
+11. [KonoSuba](https://anilist.co/anime/21202)
+12. [No Game No Life](https://anilist.co/anime/19815)
+13. [The Rising of the Shield Hero](https://anilist.co/anime/99263)
+14. [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)
+15. [Attack on Titan](https://anilist.co/anime/16498)
+16. [Naruto / Naruto: Shippuden](https://anilist.co/anime/1735)
+17. [One Piece](https://anilist.co/anime/21)
+18. [Hunter x Hunter](https://anilist.co/anime/136)
+19. [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114)
 20. [The Misfit of Demon King Academy](https://anilist.co/anime/112301)
-
-</sub>
 
 </details>
 
@@ -228,30 +224,26 @@ Hotel-facing UI project built with JavaScript, HTML, and CSS.
   <img src="assets/manhwa-marquee.svg" alt="Auto-scrolling row of manhwa cover art: Lookism, Eleceed, Return of the Mount Hua Sect, and 14 more verified covers" width="100%"/>
 </p>
 
-<sub>
-
-1. [Revenge of the Iron-Blooded Sword Hound](https://anilist.co/manga/163824)  
-2. [The Great Mage Returns After 4000 Years](https://anilist.co/manga/118424)  
-3. Necromancer's Evolutionary Traits <sub>(cover unverified)</sub>  
-4. [The Reincarnated Assassin Is a Genius Swordsman](https://anilist.co/manga/168823)  
-5. [Lookism](https://anilist.co/manga/86848) ★  
-6. [Star-Embracing Swordmaster](https://anilist.co/manga/170400)  
-7. [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056)  
-8. Regression Instruction Manual <sub>(cover unverified)</sub>  
-9. [Eleceed](https://anilist.co/manga/106929) ★  
-10. [The Regressed Mercenary's Machinations](https://anilist.co/manga/182066)  
-11. [Absolute Regression](https://anilist.co/manga/180891)  
-12. [Catastrophic Necromancer](https://anilist.co/manga/188225)  
-13. Chronicles of the Martial Gods' Return <sub>(cover unverified)</sub>  
-14. [Return to Player](https://anilist.co/manga/124577)  
-15. [Absolute Sword Sense](https://anilist.co/manga/151460)  
-16. [Legend of the Northern Blade](https://anilist.co/manga/119521)  
-17. [Eternally Regressing Knight](https://anilist.co/manga/177706)  
-18. [Infinite Mage](https://anilist.co/manga/159930)  
-19. [Reality Quest](https://anilist.co/manga/141705)  
-20. [Return of the Mount Hua Sect](https://anilist.co/manga/132144) ★
-
-</sub>
+1. [Revenge of the Iron-Blooded Sword Hound](https://anilist.co/manga/163824)
+2. [The Great Mage Returns After 4000 Years](https://anilist.co/manga/118424)
+3. Necromancer's Evolutionary Traits — cover art unverified
+4. [The Reincarnated Assassin Is a Genius Swordsman](https://anilist.co/manga/168823)
+5. [Lookism](https://anilist.co/manga/86848) ★ Favorite
+6. [Star-Embracing Swordmaster](https://anilist.co/manga/170400)
+7. [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056)
+8. Regression Instruction Manual — cover art unverified
+9. [Eleceed](https://anilist.co/manga/106929) ★ Favorite
+10. [The Regressed Mercenary's Machinations](https://anilist.co/manga/182066)
+11. [Absolute Regression](https://anilist.co/manga/180891)
+12. [Catastrophic Necromancer](https://anilist.co/manga/188225)
+13. Chronicles of the Martial Gods' Return — cover art unverified
+14. [Return to Player](https://anilist.co/manga/124577)
+15. [Absolute Sword Sense](https://anilist.co/manga/151460)
+16. [Legend of the Northern Blade](https://anilist.co/manga/119521)
+17. [Eternally Regressing Knight](https://anilist.co/manga/177706)
+18. [Infinite Mage](https://anilist.co/manga/159930)
+19. [Reality Quest](https://anilist.co/manga/141705)
+20. [Return of the Mount Hua Sect](https://anilist.co/manga/132144) ★ Favorite
 
 </details>
 
