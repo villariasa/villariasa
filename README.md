@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi, I'm Medy B. Villarias 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Medy%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+
 ### Software Developer @ Litecloud Corporation • 4+ Years Experience 🚀
 
 <p align="center">
