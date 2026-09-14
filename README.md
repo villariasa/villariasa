@@ -189,7 +189,7 @@ Hotel-facing UI project built with JavaScript, HTML, and CSS.
 <br/>
 
 <p align="center">
-  <img src="assets/anime-marquee.svg" alt="Auto-scrolling row of anime cover art: Solo Leveling, Bleach, Tokyo Ghoul, Jujutsu Kaisen, and 16 more" width="100%"/>
+  <img src="anime-marquee.svg" alt="Auto-scrolling row of anime cover art: Solo Leveling, Bleach, Tokyo Ghoul, Jujutsu Kaisen, and 16 more" width="100%"/>
 </p>
 
 1. [Solo Leveling](https://anilist.co/anime/151807) ★ Favorite
@@ -221,7 +221,7 @@ Hotel-facing UI project built with JavaScript, HTML, and CSS.
 <br/>
 
 <p align="center">
-  <img src="assets/manhwa-marquee.svg" alt="Auto-scrolling row of manhwa cover art: Lookism, Eleceed, Return of the Mount Hua Sect, and 14 more verified covers" width="100%"/>
+  <img src="manhwa-marquee.svg" alt="Auto-scrolling row of manhwa cover art: Lookism, Eleceed, Return of the Mount Hua Sect, and 14 more verified covers" width="100%"/>
 </p>
 
 1. [Revenge of the Iron-Blooded Sword Hound](https://anilist.co/manga/163824)
