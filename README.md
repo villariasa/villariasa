@@ -24,8 +24,6 @@ I care about writing systems that hold up under real usage, not just demos. Ever
 
 ## Currently Building
 
-- **CaterSync-AI** — a multi-tenant, AI-assisted catering management platform (Svelte + JavaScript, with a Python/PLpgSQL data layer)
-- **Catering-Electron** — a desktop client for catering operations, built with Electron, Python, and Svelte
 - **jayraldinescateringsystem** — a Python-based catering operations system with a PostgreSQL backend and JS-driven UI
 - **inventory-testing** — an inventory management interface built with Svelte + TypeScript
 
