@@ -93,58 +93,6 @@ I care about writing systems that hold up under real usage, not just demos. Ever
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
 </div>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[CaterSync-AI](https://github.com/villariasa/CaterSync-AI)**
-Multi-tenant, AI-assisted catering management platform with cross-platform support and dynamic branding, per the project's own description.
-`Svelte` `JavaScript` `Python` `PL/pgSQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[Catering-Electron](https://github.com/villariasa/Catering-Electron)**
-Desktop catering-operations client built as an Electron app.
-`Python` `Svelte` `TypeScript` `PowerShell`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[jayraldinescateringsystem](https://github.com/villariasa/jayraldinescateringsystem)**
-Python-driven catering operations system with a PostgreSQL data layer and a JavaScript/HTML front end.
-`Python` `JavaScript` `PL/pgSQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[inventory-testing](https://github.com/villariasa/inventory-testing)**
-Inventory management interface built with Svelte and TypeScript.
-`Svelte` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Hotel-Management](https://github.com/villariasa/Hotel-Management)**
-Hotel management application built with JavaScript and HTML.
-`JavaScript` `HTML`
-
-</td>
-<td width="50%" valign="top">
-
-**[ui-hotel](https://github.com/villariasa/ui-hotel)**
-Hotel-facing UI project built with JavaScript, HTML, and CSS.
-`JavaScript` `HTML` `CSS`
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
