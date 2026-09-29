@@ -22,11 +22,6 @@ I care about writing systems that hold up under real usage, not just demos. Ever
 
 **Education:** BS Information Systems
 
-## Currently Building
-
-- **jayraldinescateringsystem** — a Python-based catering operations system with a PostgreSQL backend and JS-driven UI
-- **inventory-testing** — an inventory management interface built with Svelte + TypeScript
-
 <br/>
 
 <div align="center">
