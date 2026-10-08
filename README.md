@@ -93,6 +93,21 @@ I care about writing systems that hold up under real usage, not just demos. Ever
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
 </div>
 
+## Featured Project
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🖼️ [removed-background](https://github.com/villariasa/removed-background) &nbsp;•&nbsp; [Live App ↗](https://removed-background.pages.dev/)
+
+A fast, **private**, 100% in-browser AI background-removal tool powered by WebGPU and Transformers.js. One-click automatic AI cutout plus interactive manual refinement ("shade to keep / shade to remove" brush, edge tuning, and smart point selection) — no account, zero uploads, runs entirely on your device.
+
+`Next.js 15` `React 19` `TypeScript` `WebGPU` `Transformers.js` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
