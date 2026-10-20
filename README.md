@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/villariasa/villariasa/main/header.svg?v=2" alt="header" width="100%"/>
+<img src="header.png" alt="header" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Architecting+end-to-end+web%2C+desktop+%26+database+systems.;Relational+Schema+Design+%E2%86%92+Service+APIs+%E2%86%92+Reactive+UIs.;Shipping+production-grade+operational+software+at+scale." alt="typing-svg"/>
 
@@ -63,18 +63,18 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/villariasa/villariasa/main/divider.svg?v=2" alt="divider"/>
+  <img src="divider.png" alt="divider"/>
 </div>
 
 ## 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://raw.githubusercontent.com/villariasa/villariasa/main/tech-stack-row1.svg?v=2" alt="Tech Stack Icons Row 1" />
+    <img src="tech-stack-row1.png" alt="Tech Stack Icons Row 1" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://raw.githubusercontent.com/villariasa/villariasa/main/tech-stack-row2.svg?v=2" alt="Tech Stack Icons Row 2" />
+    <img src="tech-stack-row2.png" alt="Tech Stack Icons Row 2" />
   </a>
 </p>
 
@@ -139,7 +139,7 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/villariasa/villariasa/main/divider.svg?v=2" alt="divider"/>
+  <img src="divider.png" alt="divider"/>
 </div>
 
 ## 🚀 Featured Production Engineering
@@ -170,7 +170,7 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/villariasa/villariasa/main/divider.svg?v=2" alt="divider"/>
+  <img src="divider.png" alt="divider"/>
 </div>
 
 ## 📊 GitHub Analytics & Operational Metrics
@@ -186,7 +186,7 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/villariasa/villariasa/main/divider.svg?v=2" alt="divider"/>
+  <img src="divider.png" alt="divider"/>
 </div>
 
 ## ⚡ Anime & Manhwa Vault
@@ -266,7 +266,7 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 </details>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/villariasa/villariasa/main/divider.svg?v=2" alt="divider"/>
+  <img src="divider.png" alt="divider"/>
 </div>
 
 <div align="center">
@@ -275,6 +275,6 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
   <i>"Architecting resilient systems. Shipping production software. Leveling up daily."</i>
 </p>
 
-<img src="https://raw.githubusercontent.com/villariasa/villariasa/main/footer.svg?v=2" alt="footer" width="100%"/>
+<img src="footer.png" alt="footer" width="100%"/>
 
 </div>
