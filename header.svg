@@ -1,49 +1,150 @@
+<svg
+  width="100%"
+  height="220"
+  viewBox="0 0 854 220"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Medy B. Villarias - Full-Stack Systems &amp; Software Engineer"
+>
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080612"/>
+      <stop offset="45%" stop-color="#140E2A"/>
+      <stop offset="100%" stop-color="#241442"/>
+    </linearGradient>
 
-      <svg
-        width="854"
-        height="230"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 230"
-      >
-        <style>
-      .text {   font-size: 46px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 18px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0D0B1E"/><stop offset="50%" stop-color="#1A1533"/><stop offset="100%" stop-color="#2A1B4D"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 115) scale(1, 1) translate(-427, -115)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 150Q 213.5 190 427 160T 854 185L 854 0 Z;M0 0L 0 175Q 213.5 190 427 170T 854 160L 854 0 Z;M0 0L 0 195Q 213.5 165 427 195T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 190 427 160T 854 185L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 165Q 213.5 210 427 180T 854 190L 854 0 Z;M0 0L 0 180Q 213.5 150 427 150T 854 170L 854 0 Z;M0 0L 0 175Q 213.5 155 427 180T 854 195L 854 0 Z;M0 0L 0 165Q 213.5 210 427 180T 854 190L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#E6DFFF;" stroke="#none" stroke-width="1" >Medy B. Villarias</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#E6DFFF;">Full-Stack Systems & Software Engineer</text>
-      </svg>
-    
+    <radialGradient id="centerGlow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#6366F1" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#080612" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Wave Gradients -->
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E1238" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#2D1A54" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1E1238" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B1C6E" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#6D28D9" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2A144E" stop-opacity="0.45"/>
+    </linearGradient>
+
+    <linearGradient id="glowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#F5F3FF"/>
+      <stop offset="100%" stop-color="#DDD6FE"/>
+    </linearGradient>
+
+    <!-- Dot Pattern -->
+    <pattern id="dotGrid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#7C3AED" fill-opacity="0.18"/>
+    </pattern>
+
+    <!-- Text Shadow Filter -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <style>
+    .name-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 44px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    .role-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 17px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .sub-tag {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 11.5px;
+      font-weight: 500;
+      letter-spacing: 0.8px;
+    }
+  </style>
+
+  <!-- Base Background -->
+  <rect width="854" height="220" fill="url(#bgGradient)"/>
+
+  <!-- Subtle Dot Grid Background -->
+  <rect width="854" height="175" fill="url(#dotGrid)"/>
+
+  <!-- Radial Glow Behind Name -->
+  <rect width="854" height="220" fill="url(#centerGlow)"/>
+
+  <!-- Layered Waves at Bottom -->
+  <!-- Deep Background Wave -->
+  <path
+    d="M0 0 L0 160 Q 213 195 427 165 T 854 180 L 854 0 Z"
+    fill="url(#wave1)"
+    opacity="0.85"
+  />
+
+  <!-- Middle Wave with Accent Opacity -->
+  <path
+    d="M0 0 L0 142 Q 213 180 427 150 T 854 165 L 854 0 Z"
+    fill="url(#wave2)"
+  />
+
+  <!-- Glowing Accent Curve -->
+  <path
+    d="M0 142 Q 213 180 427 150 T 854 165"
+    fill="none"
+    stroke="url(#glowLine)"
+    stroke-width="2.5"
+  />
+
+  <!-- Top Decorative Corner Accents -->
+  <path d="M12 24 L12 12 L24 12" fill="none" stroke="#8B5CF6" stroke-width="2" opacity="0.6"/>
+  <path d="M842 24 L842 12 L830 12" fill="none" stroke="#8B5CF6" stroke-width="2" opacity="0.6"/>
+
+  <!-- Main Headline: Medy B. Villarias -->
+  <g filter="url(#shadow)">
+    <text
+      x="427"
+      y="84"
+      text-anchor="middle"
+      class="name-title"
+      fill="url(#textGrad)"
+    >Medy B. Villarias</text>
+  </g>
+
+  <!-- Subtitle: Role & Core Specialty -->
+  <text
+    x="427"
+    y="120"
+    text-anchor="middle"
+    class="role-title"
+    fill="#C4B5FD"
+  >Full-Stack Systems &amp; Software Engineer</text>
+
+  <!-- High-Tech Badge Strip -->
+  <g transform="translate(427, 155)">
+    <!-- Pill 1: Systems Architecture -->
+    <rect x="-240" y="-12" width="145" height="24" rx="12" fill="#1A1233" stroke="#6D28D9" stroke-width="1" opacity="0.85"/>
+    <text x="-167" y="4" text-anchor="middle" class="sub-tag" fill="#E9D5FF">⚡ ARCHITECTURE</text>
+
+    <!-- Pill 2: Relational Databases -->
+    <rect x="-80" y="-12" width="160" height="24" rx="12" fill="#1A1233" stroke="#6D28D9" stroke-width="1" opacity="0.85"/>
+    <text x="0" y="4" text-anchor="middle" class="sub-tag" fill="#E9D5FF">🗄️ RELATIONAL DB</text>
+
+    <!-- Pill 3: Production Engineering -->
+    <rect x="95" y="-12" width="145" height="24" rx="12" fill="#1A1233" stroke="#6D28D9" stroke-width="1" opacity="0.85"/>
+    <text x="167" y="4" text-anchor="middle" class="sub-tag" fill="#E9D5FF">🚀 PRODUCTION</text>
+  </g>
+</svg>
