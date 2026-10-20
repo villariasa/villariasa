@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,50:1A1533,100:2A1B4D&height=230&section=header&text=Medy%20B.%20Villarias&fontSize=46&fontColor=E6DFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Systems%20%26%20Software%20Engineer&descAlignY=58&descSize=18&descColor=A78BFA" alt="header" width="100%"/>
+<img src="header.svg" alt="header" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Architecting+end-to-end+web%2C+desktop+%26+database+systems.;Relational+Schema+Design+%E2%86%92+Service+APIs+%E2%86%92+Reactive+UIs.;Shipping+production-grade+operational+software+at+scale." alt="typing-svg"/>
 
@@ -63,18 +63,18 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
+  <img src="divider.svg" alt="divider"/>
 </div>
 
 ## 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,cs,c,java,postgres,mysql,sqlite,react,nextjs,svelte,tailwind&theme=tokyonight" alt="Tech Stack Icons Row 1" />
+    <img src="tech-stack-row1.svg" alt="Tech Stack Icons Row 1" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,electron,docker,git,github,linux,bash,powershell,figma,postman,vscode&theme=tokyonight" alt="Tech Stack Icons Row 2" />
+    <img src="tech-stack-row2.svg" alt="Tech Stack Icons Row 2" />
   </a>
 </p>
 
@@ -139,7 +139,7 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
+  <img src="divider.svg" alt="divider"/>
 </div>
 
 ## 🚀 Featured Production Engineering
@@ -159,40 +159,18 @@ A high-performance, **100% private in-browser AI background removal tool** power
 <tr>
 <td width="100%" valign="top">
 
-### 🍽️ <a href="https://github.com/villariasa/jayraldinescateringsystem" target="_blank" rel="noopener noreferrer">jayraldinescateringsystem</a> &nbsp;•&nbsp; <code>Enterprise Banquet Logistics</code>
+### 🧾 <a href="https://github.com/villariasa/billo" target="_blank" rel="noopener noreferrer">billo (quicknote)</a> &nbsp;•&nbsp; <a href="https://villariasa.github.io/billo/" target="_blank" rel="noopener noreferrer">Live PWA / Web App ↗</a>
 
-Mission-critical catering operations and banquet event management platform. Engineered for real-world concurrency with multi-station kitchen slip dispatch, real-time raw ingredient deduction triggers, companion Tablet PWA mobile ordering, and automated kitchen batching.
+A modern, **100% private in-browser invoice & thermal receipt generator**. Zero tracking, zero accounts, and zero database storage. Features native 58mm/80mm POS receipt layouts, full standard paper support (A4, A5, Letter, Legal), on-device OCR receipt scanner, dynamic calculations, and instant high-resolution PDF export.
 
-`Python` `Electron Desktop` `PWA Tablet App` `PostgreSQL` `MySQL Stored Procedures` `Inno Setup`
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### 🤖 <a href="https://github.com/villariasa/CaterSync-AI" target="_blank" rel="noopener noreferrer">CaterSync-AI</a> &nbsp;•&nbsp; <code>Intelligent Catering Logistics</code>
-
-Predictive inventory replenishment and banquet planning engine. Analyzes historical event consumption patterns to forecast raw material requirements, automate multi-tier menu packaging, and prevent costly ingredient stockouts.
-
-`FastAPI` `Python` `React` `PostgreSQL` `Predictive Analytics` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### 🏨 <a href="https://github.com/villariasa/Hotel-Management" target="_blank" rel="noopener noreferrer">Hotel-Management-System</a> &nbsp;•&nbsp; <code>Hospitality PMS Architecture</code>
-
-Full-cycle property management software featuring guest reservations, automated room inventory scheduling, folio billing, and strict transaction isolation to maintain tamper-proof audit trails for daily hotel operations.
-
-`C# / .NET` `SQL Server` `WinForms / WPF` `Relational Schema Design` `Crystal Reports`
+`Svelte 5` `TypeScript` `Tailwind CSS v4` `Vite` `jsPDF` `Tesseract.js` `GitHub Pages`
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
+  <img src="divider.svg" alt="divider"/>
 </div>
 
 ## 📊 GitHub Analytics & Operational Metrics
@@ -208,7 +186,7 @@ Full-cycle property management software featuring guest reservations, automated 
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
+  <img src="divider.svg" alt="divider"/>
 </div>
 
 ## ⚡ Anime & Manhwa Vault
@@ -288,7 +266,7 @@ Full-cycle property management software featuring guest reservations, automated 
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0B1E,100:2A1B4D&height=2&width=850" alt="divider"/>
+  <img src="divider.svg" alt="divider"/>
 </div>
 
 <div align="center">
@@ -297,6 +275,6 @@ Full-cycle property management software featuring guest reservations, automated 
   <i>"Architecting resilient systems. Shipping production software. Leveling up daily."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1B4D,50:1A1533,100:0D0B1E&height=120&section=footer" alt="footer" width="100%"/>
+<img src="footer.svg" alt="footer" width="100%"/>
 
 </div>
