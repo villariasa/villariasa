@@ -16,7 +16,7 @@
 
 <br/>
 
-## ⚡ Systems Architecture & Engineering Profile
+## <img src="icons/bolt.svg" width="22" height="22" align="center" /> Systems Architecture & Engineering Profile
 
 <table>
 <tr>
@@ -35,14 +35,14 @@ My core work centers on mission-critical business platforms (**inventory control
 <td width="42%" valign="top">
 
 ```text
-📊 ENGINEERING DOMAIN DISTRIBUTION
+ENGINEERING DOMAIN DISTRIBUTION
 
 Backend & APIs     ██████████████████░░ 40%
 Database Systems   ██████████████░░░░░░ 30%
 Frontend & UI/UX   ██████████░░░░░░░░░░ 20%
 Desktop & DevOps   █████░░░░░░░░░░░░░░░ 10%
 ───────────────────────────────────────────
-⚡ CORE WORKFLOW PIPELINE
+CORE WORKFLOW PIPELINE
 ┌─────────────────────────────────────────┐
 │ [ERD / 3NF Relational Normalization]    │
 │                  │                      │
@@ -66,7 +66,7 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
   <img src="divider.png" alt="divider"/>
 </div>
 
-## 🛠️ Tech Stack & Ecosystem
+## <img src="icons/wrench-screwdriver.svg" width="22" height="22" align="center" /> Tech Stack & Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -78,7 +78,7 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
   </a>
 </p>
 
-### 💻 Languages & Runtimes
+### <img src="icons/code-bracket.svg" width="18" height="18" align="center" /> Languages & Runtimes
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1A1533?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D0B1E" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-1A1533?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D0B1E" alt="JavaScript"/>
@@ -92,7 +92,7 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
   <img src="https://img.shields.io/badge/Bash-1A1533?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0D0B1E" alt="Bash"/>
 </p>
 
-### 🌐 Frontend & Reactive Frameworks
+### <img src="icons/globe-alt.svg" width="18" height="18" align="center" /> Frontend & Reactive Frameworks
 <p>
   <img src="https://img.shields.io/badge/Next.js_15-1A1533?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D0B1E" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React_19-1A1533?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D0B1E" alt="React"/>
@@ -102,7 +102,7 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
   <img src="https://img.shields.io/badge/Vite-1A1533?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D0B1E" alt="Vite"/>
 </p>
 
-### ⚙️ Backend, Systems & APIs
+### <img src="icons/cog-6-tooth.svg" width="18" height="18" align="center" /> Backend, Systems & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-1A1533?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D0B1E" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-1A1533?style=for-the-badge&logo=express&logoColor=white&labelColor=0D0B1E" alt="Express"/>
@@ -111,14 +111,14 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
   <img src="https://img.shields.io/badge/Stored_Procedures-1A1533?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D0B1E" alt="Stored Procedures"/>
 </p>
 
-### 🖥️ Desktop & Native Engineering
+### <img src="icons/computer-desktop.svg" width="18" height="18" align="center" /> Desktop & Native Engineering
 <p>
   <img src="https://img.shields.io/badge/Electron-1A1533?style=for-the-badge&logo=electron&logoColor=47848F&labelColor=0D0B1E" alt="Electron"/>
   <img src="https://img.shields.io/badge/Inno_Setup-1A1533?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D0B1E" alt="Inno Setup"/>
   <img src="https://img.shields.io/badge/Chromium_IPC-1A1533?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=0D0B1E" alt="Chromium IPC"/>
 </p>
 
-### 🗄️ Relational Databases & Storage
+### <img src="icons/circle-stack.svg" width="18" height="18" align="center" /> Relational Databases & Storage
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-1A1533?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D0B1E" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-1A1533?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D0B1E" alt="MySQL"/>
@@ -127,7 +127,7 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
   <img src="https://img.shields.io/badge/MySQL_Workbench-1A1533?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D0B1E" alt="MySQL Workbench"/>
 </p>
 
-### 🛠️ DevOps, Tooling & Workflow
+### <img src="icons/command-line.svg" width="18" height="18" align="center" /> DevOps, Tooling & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-1A1533?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D0B1E" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-1A1533?style=for-the-badge&logo=github&logoColor=E6DFFF&labelColor=0D0B1E" alt="GitHub"/>
@@ -142,13 +142,13 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
   <img src="divider.png" alt="divider"/>
 </div>
 
-## 🚀 Featured Production Engineering
+## <img src="icons/rocket-launch.svg" width="22" height="22" align="center" /> Featured Production Engineering
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-### 🛡️ <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">Raphael</a> &nbsp;•&nbsp; <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">Local-First AI Desktop Operator ↗</a>
+### <img src="icons/shield-check.svg" width="18" height="18" align="center" /> <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">Raphael</a> &nbsp;•&nbsp; <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">Local-First AI Desktop Operator ↗</a>
 
 A privacy-centric, **local-first AI desktop assistant & agentic task operator** powered by Electron, React, and Ollama. Executes multi-step OS automation workflows with zero cloud telemetry, featuring a typed Safe Action Model (SAM), human-in-the-loop permission gates, transparent visual cursor overlays, and comprehensive audit trails.
 
@@ -159,7 +159,7 @@ A privacy-centric, **local-first AI desktop assistant & agentic task operator** 
 <tr>
 <td width="100%" valign="top">
 
-### 🖼️ <a href="https://github.com/villariasa/removed-background" target="_blank" rel="noopener noreferrer">removed-background</a> &nbsp;•&nbsp; <a href="https://removed-background.pages.dev/" target="_blank" rel="noopener noreferrer">Live WebGPU App ↗</a>
+### <img src="icons/photo.svg" width="18" height="18" align="center" /> <a href="https://github.com/villariasa/removed-background" target="_blank" rel="noopener noreferrer">removed-background</a> &nbsp;•&nbsp; <a href="https://removed-background.pages.dev/" target="_blank" rel="noopener noreferrer">Live WebGPU App ↗</a>
 
 A high-performance, **100% private in-browser AI background removal tool** powered by WebGPU and Transformers.js. Delivers instant neural cutouts without uploading files to external servers. Features an interactive precision refinement brush (shade to keep / shade to remove), adaptive edge feathering, and smart foreground detection.
 
@@ -170,7 +170,7 @@ A high-performance, **100% private in-browser AI background removal tool** power
 <tr>
 <td width="100%" valign="top">
 
-### 🧾 <a href="https://github.com/villariasa/zynqelo" target="_blank" rel="noopener noreferrer">Zynqelo</a> &nbsp;•&nbsp; <a href="https://villariasa.github.io/zynqelo/" target="_blank" rel="noopener noreferrer">Live PWA / Web App ↗</a>
+### <img src="icons/document-text.svg" width="18" height="18" align="center" /> <a href="https://github.com/villariasa/zynqelo" target="_blank" rel="noopener noreferrer">Zynqelo</a> &nbsp;•&nbsp; <a href="https://villariasa.github.io/zynqelo/" target="_blank" rel="noopener noreferrer">Live PWA / Web App ↗</a>
 
 A modern, **100% private in-browser invoice & thermal receipt generator**. Zero tracking, zero accounts, and zero database storage. Features native 58mm/80mm POS receipt layouts, full standard paper support (A4, A5, Letter, Legal), on-device OCR receipt scanner, dynamic calculations, and instant high-resolution PDF export.
 
@@ -184,7 +184,7 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
   <img src="divider.png" alt="divider"/>
 </div>
 
-## 📊 GitHub Analytics & Operational Metrics
+## <img src="icons/chart-bar.svg" width="22" height="22" align="center" /> GitHub Analytics & Operational Metrics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=villariasa&show_icons=true&theme=tokyonight&bg_color=0D0B1E&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&border_color=2A1B4D&border_radius=10&hide_rank=false" alt="GitHub Stats"/>
@@ -200,7 +200,7 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
   <img src="divider.png" alt="divider"/>
 </div>
 
-## ⚡ Anime & Manhwa Vault
+## <img src="icons/sparkles.svg" width="22" height="22" align="center" /> Anime & Manhwa Vault
 
 <p align="center">
   <a href="#anime-watchlist"><img src="https://img.shields.io/badge/%E2%96%B8_Anime_Watchlist-1A1533?style=for-the-badge&labelColor=0D0B1E&color=A78BFA" alt="Jump to anime section"/></a>
@@ -221,10 +221,10 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
   <img src="anime-marquee.svg" alt="Auto-scrolling row of anime cover art: Solo Leveling, Bleach, Tokyo Ghoul, Jujutsu Kaisen, and 16 more" width="100%"/>
 </p>
 
-1. [Solo Leveling](https://anilist.co/anime/151807) ★ Favorite
-2. [Bleach](https://anilist.co/anime/269) ★ Favorite
-3. [Tokyo Ghoul](https://anilist.co/anime/20605) ★ Favorite
-4. [Jujutsu Kaisen](https://anilist.co/anime/113415) ★ Favorite
+1. [Solo Leveling](https://anilist.co/anime/151807) *(Favorite)*
+2. [Bleach](https://anilist.co/anime/269) *(Favorite)*
+3. [Tokyo Ghoul](https://anilist.co/anime/20605) *(Favorite)*
+4. [Jujutsu Kaisen](https://anilist.co/anime/113415) *(Favorite)*
 5. [That Time I Got Reincarnated as a Slime](https://anilist.co/anime/101280)
 6. [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)
 7. [Re:ZERO -Starting Life in Another World-](https://anilist.co/anime/21355)
@@ -257,11 +257,11 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 2. [The Great Mage Returns After 4000 Years](https://anilist.co/manga/118424)
 3. Necromancer's Evolutionary Traits
 4. [The Reincarnated Assassin Is a Genius Swordsman](https://anilist.co/manga/168823)
-5. [Lookism](https://anilist.co/manga/86848) ★ Favorite
+5. [Lookism](https://anilist.co/manga/86848) *(Favorite)*
 6. [Star-Embracing Swordmaster](https://anilist.co/manga/170400)
 7. [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056)
 8. Regression Instruction Manual
-9. [Eleceed](https://anilist.co/manga/106929) ★ Favorite
+9. [Eleceed](https://anilist.co/manga/106929) *(Favorite)*
 10. [The Regressed Mercenary's Machinations](https://anilist.co/manga/182066)
 11. [Absolute Regression](https://anilist.co/manga/180891)
 12. [Catastrophic Necromancer](https://anilist.co/manga/188225)
@@ -272,7 +272,7 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 17. [Eternally Regressing Knight](https://anilist.co/manga/177706)
 18. [Infinite Mage](https://anilist.co/manga/159930)
 19. [Reality Quest](https://anilist.co/manga/141705)
-20. [Return of the Mount Hua Sect](https://anilist.co/manga/132144) ★ Favorite
+20. [Return of the Mount Hua Sect](https://anilist.co/manga/132144) *(Favorite)*
 
 </details>
 
