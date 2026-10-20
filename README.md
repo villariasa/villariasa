@@ -148,6 +148,17 @@ Desktop & DevOps   █████░░░░░░░░░░░░░░░ 
 <tr>
 <td width="100%" valign="top">
 
+### 🛡️ <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">Raphael</a> &nbsp;•&nbsp; <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">Local-First AI Desktop Operator ↗</a>
+
+A privacy-centric, **local-first AI desktop assistant & agentic task operator** powered by Electron, React, and Ollama. Executes multi-step OS automation workflows with zero cloud telemetry, featuring a typed Safe Action Model (SAM), human-in-the-loop permission gates, transparent visual cursor overlays, and comprehensive audit trails.
+
+`Electron 32` `React 18` `TypeScript` `Ollama (Local LLMs)` `Tailwind CSS` `Vite` `Zod`
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
 ### 🖼️ <a href="https://github.com/villariasa/removed-background" target="_blank" rel="noopener noreferrer">removed-background</a> &nbsp;•&nbsp; <a href="https://removed-background.pages.dev/" target="_blank" rel="noopener noreferrer">Live WebGPU App ↗</a>
 
 A high-performance, **100% private in-browser AI background removal tool** powered by WebGPU and Transformers.js. Delivers instant neural cutouts without uploading files to external servers. Features an interactive precision refinement brush (shade to keep / shade to remove), adaptive edge feathering, and smart foreground detection.
