@@ -159,7 +159,7 @@ A high-performance, **100% private in-browser AI background removal tool** power
 <tr>
 <td width="100%" valign="top">
 
-### 🧾 <a href="https://github.com/villariasa/billo" target="_blank" rel="noopener noreferrer">billo (quicknote)</a> &nbsp;•&nbsp; <a href="https://villariasa.github.io/billo/" target="_blank" rel="noopener noreferrer">Live PWA / Web App ↗</a>
+### 🧾 <a href="https://github.com/villariasa/zynqelo" target="_blank" rel="noopener noreferrer">Zynqelo</a> &nbsp;•&nbsp; <a href="https://villariasa.github.io/zynqelo/" target="_blank" rel="noopener noreferrer">Live PWA / Web App ↗</a>
 
 A modern, **100% private in-browser invoice & thermal receipt generator**. Zero tracking, zero accounts, and zero database storage. Features native 58mm/80mm POS receipt layouts, full standard paper support (A4, A5, Letter, Legal), on-device OCR receipt scanner, dynamic calculations, and instant high-resolution PDF export.
 
