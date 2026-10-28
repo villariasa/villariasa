@@ -76,6 +76,29 @@ CORE WORKFLOW PIPELINE
   </a>
 </p>
 
+<table>
+<tr>
+  <td width="22%"><b>Languages</b></td>
+  <td><code>TypeScript</code> <code>JavaScript</code> <code>Python</code> <code>C#</code> <code>C</code> <code>Java</code> <code>PL/pgSQL</code> <code>Bash</code></td>
+</tr>
+<tr>
+  <td width="22%"><b>Frontend & UI</b></td>
+  <td><code>Svelte 5</code> <code>Next.js 15</code> <code>React 19</code> <code>Tailwind CSS v4</code> <code>WebGPU</code> <code>Vite</code></td>
+</tr>
+<tr>
+  <td width="22%"><b>Backend & DBs</b></td>
+  <td><code>Hono v4</code> <code>Node.js</code> <code>Express</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>MySQL</code> <code>MariaDB</code> <code>SQLite</code></td>
+</tr>
+<tr>
+  <td width="22%"><b>Desktop & Tools</b></td>
+  <td><code>Electron</code> <code>Inno Setup</code> <code>Docker</code> <code>Git</code> <code>GitHub</code> <code>Postman</code> <code>Figma</code></td>
+</tr>
+</table>
+
+<details>
+<summary><b>▸ View Categorized Shield Badges</b> (click to expand)</summary>
+<br/>
+
 ### <img src="icons/code-bracket.svg" width="18" height="18" align="center" /> Languages & Runtimes
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1A1533?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D0B1E" alt="TypeScript"/>
@@ -136,6 +159,8 @@ CORE WORKFLOW PIPELINE
   <img src="https://img.shields.io/badge/PowerShell-1A1533?style=for-the-badge&logo=powershell&logoColor=5391FE&labelColor=0D0B1E" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/VS_Code-1A1533?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D0B1E" alt="VS Code"/>
 </p>
+
+</details>
 
 <div align="center">
   <img src="divider.png" alt="divider"/>
