@@ -195,6 +195,12 @@ A next-generation, **continuous anime streaming & discovery platform** built fro
 
 ### <img src="icons/shield-check.svg" width="18" height="18" align="center" /> <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">Raphael</a> &nbsp;•&nbsp; <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">Local-First AI Desktop Operator ↗</a>
 
+<p align="center">
+  <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">
+    <img src="raphael-preview.jpg" alt="Raphael - Local-First AI Desktop Operator" width="100%" style="border-radius: 10px;"/>
+  </a>
+</p>
+
 A privacy-centric, **local-first AI desktop assistant & agentic task operator** powered by Electron, React, and Ollama. Executes multi-step OS automation workflows with zero cloud telemetry, featuring a typed Safe Action Model (SAM), human-in-the-loop permission gates, transparent visual cursor overlays, and comprehensive audit trails.
 
 `Electron 32` `React 18` `TypeScript` `Ollama (Local LLMs)` `Tailwind CSS` `Vite` `Zod`
