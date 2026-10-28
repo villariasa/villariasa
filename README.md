@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="100%" valign="top">
 
 I build **resilient, end-to-end operational software & intelligent clients** — bridging high-performance relational architectures and service backends with reactive, privacy-first user experiences.
 
@@ -29,8 +29,7 @@ I build **resilient, end-to-end operational software & intelligent clients** —
 - **Mission-Critical POS & Operations:** Built <a href="https://villariasa.github.io/zynqelo/"><b>Zynqelo</b></a> (zero-telemetry thermal POS engine) alongside enterprise platforms with strict relational integrity, PL/pgSQL & MySQL stored procedures, and audit trails.
 - **Education:** Bachelor of Science in Information Systems
 
-</td>
-<td width="42%" valign="top">
+<br/>
 
 ```text
 ENGINEERING DOMAIN DISTRIBUTION
