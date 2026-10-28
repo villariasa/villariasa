@@ -22,13 +22,11 @@
 <tr>
 <td width="58%" valign="top">
 
-I build **resilient, end-to-end operational software** — taking systems from normalized relational database schemas and stored procedures to service-oriented backends, native desktop wrappers, and high-responsiveness interfaces.
+I build **resilient, end-to-end operational software & intelligent clients** — bridging high-performance relational architectures and service backends with reactive, privacy-first user experiences.
 
-My core work centers on mission-critical business platforms (**inventory control, catering logistics, community/vicinage management, and hospitality operations**) designed to hold up under real-world concurrency and daily production loads.
-
-- **Database-First Engineering:** Heavy focus on relational integrity, query optimization, views, and complex `PL/pgSQL` & `MySQL` stored procedures.
-- **Cross-Platform Delivery:** Bridging modern web stacks (`Next.js`, `Svelte`, `React`) with native desktop execution (`Electron`, `Inno Setup` installers).
-- **Domain Specialization:** High-concurrency transaction management, real-time slip dispatch, and fault-tolerant audit trails.
+- **High-Throughput Streaming & Media Engines:** Architected <a href="https://animedy.pages.dev/"><b>Animedy</b></a> with Svelte 5 (Runes), high-speed Hono micro-APIs, MariaDB caching, and zero-friction video routing.
+- **Local-First & On-Device AI Systems:** Engineered <a href="https://github.com/villariasa/Raphael"><b>Raphael</b></a> (agentic Electron + Ollama OS automation) and <a href="https://removed-background.pages.dev/"><b>removed-background</b></a> (client-side WebGPU neural inference).
+- **Mission-Critical POS & Operations:** Built <a href="https://villariasa.github.io/zynqelo/"><b>Zynqelo</b></a> (zero-telemetry thermal POS engine) alongside enterprise platforms with strict relational integrity, PL/pgSQL & MySQL stored procedures, and audit trails.
 - **Education:** Bachelor of Science in Information Systems
 
 </td>
@@ -105,6 +103,7 @@ CORE WORKFLOW PIPELINE
 ### <img src="icons/cog-6-tooth.svg" width="18" height="18" align="center" /> Backend, Systems & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-1A1533?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D0B1E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Hono-1A1533?style=for-the-badge&logo=hono&logoColor=E36002&labelColor=0D0B1E" alt="Hono"/>
   <img src="https://img.shields.io/badge/Express.js-1A1533?style=for-the-badge&logo=express&logoColor=white&labelColor=0D0B1E" alt="Express"/>
   <img src="https://img.shields.io/badge/FastAPI-1A1533?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0D0B1E" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/REST_APIs-1A1533?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D0B1E" alt="REST APIs"/>
@@ -145,6 +144,27 @@ CORE WORKFLOW PIPELINE
 ## <img src="icons/rocket-launch.svg" width="22" height="22" align="center" /> Featured Production Engineering
 
 <table>
+<tr>
+<td width="100%" valign="top">
+
+<div align="right">
+  <img src="https://img.shields.io/badge/%E2%98%85%20FLAGSHIP%20SHOWCASE-GOLD%20TIER-D4AF37?style=for-the-badge&labelColor=1A1533" alt="Gold Flagship Showcase"/>
+</div>
+
+### <img src="icons/sparkles.svg" width="18" height="18" align="center" /> <a href="https://github.com/villariasa/animedy" target="_blank" rel="noopener noreferrer">Animedy</a> &nbsp;•&nbsp; <a href="https://animedy.pages.dev/" target="_blank" rel="noopener noreferrer">Live Streaming Platform ↗</a>
+
+<p align="center">
+  <a href="https://animedy.pages.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="animedy-preview.png" alt="Animedy - Continuous Anime Watching Platform" width="100%" style="border-radius: 10px;"/>
+  </a>
+</p>
+
+A next-generation, **continuous anime streaming & discovery platform** built from the ground up for zero-friction binge-watching. Features dynamic multi-source video routing (VidSrc, MultiStream, Videasy), automated AniSkip intro/outro skipping, sub/dub switching, 50-episode rapid pagination tools, live dropdown search suggestions, and a dual-pane spotlight showcase — backed by resilient MariaDB metadata caching and high-throughput Hono micro-APIs.
+
+`Svelte 5 (Runes)` `Hono v4` `MariaDB` `TypeScript` `Tailwind CSS v4` `AniList GraphQL` `Jikan REST` `AniSkip` `Cloudflare Pages`
+
+</td>
+</tr>
 <tr>
 <td width="100%" valign="top">
 
