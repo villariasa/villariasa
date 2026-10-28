@@ -196,7 +196,7 @@ A next-generation, **continuous anime streaming & discovery platform** built fro
 
 <p align="center">
   <a href="https://github.com/villariasa/Raphael" target="_blank" rel="noopener noreferrer">
-    <img src="raphael-preview.jpg" alt="Raphael - Local-First AI Desktop Operator" width="100%" style="border-radius: 10px;"/>
+    <img src="raphael-preview.gif" alt="Raphael - Local-First AI Desktop Operator (Visualizer Demo)" width="100%" style="border-radius: 10px;"/>
   </a>
 </p>
 
