@@ -179,7 +179,7 @@ CORE WORKFLOW PIPELINE
 
 <p align="center">
   <a href="https://animedy.pages.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="animedy-preview.png" alt="Animedy - Continuous Anime Watching Platform" width="100%" style="border-radius: 10px;"/>
+    <img src="animedy-preview.gif" alt="Animedy - Continuous Anime Watching Platform" width="100%" style="border-radius: 10px;"/>
   </a>
 </p>
 
