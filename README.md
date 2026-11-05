@@ -123,7 +123,9 @@ Full-stack developer & systems builder in Cebu City, Philippines. I architect en
 ### <img src="icons/sparkles.svg" width="18" height="18" align="center" /> <a href="https://github.com/villariasa/animedy" target="_blank" rel="noopener noreferrer">Animedy</a> &nbsp;•&nbsp; <a href="https://animedy.pages.dev/" target="_blank" rel="noopener noreferrer">Live Streaming Platform ↗</a>
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/e254477f-0a1f-4d8d-9116-26bf73d08f76" width="100%" autoplay loop muted playsinline controls style="border-radius: 10px;"></video>
+  <a href="https://animedy.pages.dev/" target="_blank" rel="noopener noreferrer">
+    <video src="https://github.com/user-attachments/assets/e254477f-0a1f-4d8d-9116-26bf73d08f76" width="100%" autoplay loop muted playsinline style="border-radius: 10px;"></video>
+  </a>
 </p>
 
 A next-generation, **continuous anime streaming & discovery platform** built from the ground up for zero-friction binge-watching. Features dynamic multi-source video routing (VidSrc, MultiStream, Videasy), automated AniSkip intro/outro skipping, sub/dub switching, 50-episode rapid pagination tools, live dropdown search suggestions, and a dual-pane spotlight showcase — backed by resilient MariaDB metadata caching and high-throughput Hono micro-APIs.
