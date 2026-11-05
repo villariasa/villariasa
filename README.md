@@ -204,13 +204,11 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 </p>
 
 <p align="center">
-  <sub>Pure CSS auto-scrolling marquee rendered natively inside self-contained SVGs. Expand the drawers below for complete details and tracking links.</sub>
+  <sub>Pure CSS auto-scrolling marquee rendered natively inside self-contained SVGs. Complete details, cover art, and tracking links below.</sub>
 </p>
 
 <a name="anime-watchlist"></a>
-<details open>
-<summary><b>▸ Anime Watchlist (Top 20 Curated)</b> — click to collapse</summary>
-<br/>
+### Anime Watchlist (Top 20 Curated)
 
 <p align="center">
   <img src="anime-marquee.svg" alt="Auto-scrolling row of anime cover art: Solo Leveling, Bleach, Tokyo Ghoul, Jujutsu Kaisen, and 16 more" width="100%"/>
@@ -237,12 +235,8 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 19. [Fullmetal Alchemist: Brotherhood](https://anilist.co/anime/5114)
 20. [The Misfit of Demon King Academy](https://anilist.co/anime/112301)
 
-</details>
-
 <a name="manhwa-reading-rotation"></a>
-<details open>
-<summary><b>▸ Manhwa Reading Rotation (Top 20 Curated)</b> — click to collapse</summary>
-<br/>
+### Manhwa Reading Rotation (Top 20 Curated)
 
 <p align="center">
   <img src="manhwa-marquee.svg" alt="Auto-scrolling row of manhwa cover art: Lookism, Eleceed, Return of the Mount Hua Sect, and 14 more verified covers" width="100%"/>
@@ -268,8 +262,6 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 18. [Infinite Mage](https://anilist.co/manga/159930)
 19. [Reality Quest](https://anilist.co/manga/141705)
 20. [Return of the Mount Hua Sect](https://anilist.co/manga/132144) *(Favorite)*
-
-</details>
 
 <div align="center">
   <img src="divider.png" alt="divider"/>
