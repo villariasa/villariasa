@@ -124,7 +124,7 @@ Full-stack developer & systems builder in Cebu City, Philippines. I architect en
 
 <p align="center">
   <a href="https://animedy.pages.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="animedy-preview.gif" alt="Animedy - Continuous Anime Watching Platform" width="100%" style="border-radius: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/e254477f-0a1f-4d8d-9116-26bf73d08f76" alt="Animedy - Continuous Anime Watching Platform" width="100%" style="border-radius: 10px;"/>
   </a>
 </p>
 
