@@ -1,67 +1,12 @@
-<div align="center">
+# Medy B. Villarias
 
-<img src="header.png" alt="header" width="100%"/>
+Full-stack developer & systems builder in Cebu City, Philippines. I architect end-to-end operational software, internal tools, and desktop/web clients — bridging normalized relational databases with dependable, reactive user experiences. I care most about how systems hold up in production after the demo, when people depend on the software every day.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Architecting+end-to-end+web%2C+desktop+%26+database+systems.;Relational+Schema+Design+%E2%86%92+Service+APIs+%E2%86%92+Reactive+UIs.;Shipping+production-grade+operational+software+at+scale." alt="typing-svg"/>
+[GitHub](https://github.com/villariasa) · [LinkedIn](https://www.linkedin.com/in/medy-villarias) · [medyvillarias36@gmail.com](mailto:medyvillarias36@gmail.com)
 
-<p align="center">
-  <a href="https://github.com/villariasa"><img src="https://img.shields.io/badge/GitHub-villariasa-1A1533?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D0B1E" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Company-Litecloud%20Corp-1A1533?style=for-the-badge&logo=sparkles&logoColor=A78BFA&labelColor=0D0B1E&color=A78BFA" alt="Company"/>
-  <img src="https://img.shields.io/badge/Location-Cebu%20City%2C%20PH-1A1533?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=0D0B1E&color=A78BFA" alt="Location"/>
-  <img src="https://img.shields.io/badge/Focus-Production%20Systems-1A1533?style=for-the-badge&logo=databricks&logoColor=A78BFA&labelColor=0D0B1E&color=A78BFA" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Education-BS%20Information%20Systems-1A1533?style=for-the-badge&logo=buffer&logoColor=A78BFA&labelColor=0D0B1E&color=A78BFA" alt="Education"/>
-</p>
+**Now:** Full-stack systems developer at Litecloud Corp on CERPSYS. Building [Zynqelo](https://villariasa.github.io/zynqelo/) (thermal POS engine), [Animedy](https://animedy.pages.dev/) (Svelte 5 streaming engine), and [Raphael](https://github.com/villariasa/Raphael) (agentic desktop client). BS in Information Systems.
 
-</div>
-
-<br/>
-
-## <img src="icons/bolt.svg" width="22" height="22" align="center" /> Systems Architecture & Engineering Profile
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-I build **resilient, end-to-end operational software & intelligent clients** — bridging high-performance relational architectures and service backends with reactive, privacy-first user experiences.
-
-- **High-Throughput Streaming & Media Engines:** Architected <a href="https://animedy.pages.dev/"><b>Animedy</b></a> with Svelte 5 (Runes), high-speed Hono micro-APIs, MariaDB caching, and zero-friction video routing.
-- **Local-First & On-Device AI Systems:** Engineered <a href="https://github.com/villariasa/Raphael"><b>Raphael</b></a> (agentic Electron + Ollama OS automation) and <a href="https://removed-background.pages.dev/"><b>removed-background</b></a> (client-side WebGPU neural inference).
-- **Mission-Critical POS & Operations:** Built <a href="https://villariasa.github.io/zynqelo/"><b>Zynqelo</b></a> (zero-telemetry thermal POS engine) alongside enterprise platforms with strict relational integrity, PL/pgSQL & MySQL stored procedures, and audit trails.
-- **Education:** Bachelor of Science in Information Systems
-
-<br/>
-
-```text
-ENGINEERING DOMAIN DISTRIBUTION
-
-Backend & APIs     ██████████████████░░ 40%
-Database Systems   ██████████████░░░░░░ 30%
-Frontend & UI/UX   ██████████░░░░░░░░░░ 20%
-Desktop & DevOps   █████░░░░░░░░░░░░░░░ 10%
-───────────────────────────────────────────
-CORE WORKFLOW PIPELINE
-┌─────────────────────────────────────────┐
-│ [ERD / 3NF Relational Normalization]    │
-│                  │                      │
-│                  ▼                      │
-│   [Stored Procs & Service APIs]         │
-│         │                  │            │
-│         ▼                  ▼            │
-│  [Reactive Web UI]   [Electron Desktop] │
-│         │                  │            │
-│         └────────┬─────────┘            │
-│                  ▼                      │
-│    [Production Load Verification]       │
-└─────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="divider.png" alt="divider"/>
-</div>
+---
 
 ## <img src="icons/wrench-screwdriver.svg" width="22" height="22" align="center" /> Tech Stack & Ecosystem
 
@@ -295,8 +240,8 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
 </details>
 
 <a name="manhwa-reading-rotation"></a>
-<details>
-<summary><b>▸ Manhwa Reading Rotation (Top 20 Curated)</b> — click to expand</summary>
+<details open>
+<summary><b>▸ Manhwa Reading Rotation (Top 20 Curated)</b> — click to collapse</summary>
 <br/>
 
 <p align="center">
