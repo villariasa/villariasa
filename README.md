@@ -4,7 +4,7 @@ Full-stack developer & systems builder in Cebu City, Philippines. I architect en
 
 [GitHub](https://github.com/villariasa) · [LinkedIn](https://www.linkedin.com/in/medy-villarias) · [medyvillarias36@gmail.com](mailto:medyvillarias36@gmail.com)
 
-**Now:** Full-stack systems developer at Litecloud Corp on CERPSYS. Building [Zynqelo](https://villariasa.github.io/zynqelo/) (thermal POS engine), [Animedy](https://animedy.pages.dev/) (Svelte 5 streaming engine), and [Raphael](https://github.com/villariasa/Raphael) (agentic desktop client). BS in Information Systems.
+**Now:** Full-stack systems developer at Litecloud Corp on CERPSYS. Building [Zynqelo](https://villariasa.github.io/zynqelo/) (thermal POS engine), [Animedy](https://animedy.pages.dev/) (Svelte 5 streaming engine), [Raphael](https://github.com/villariasa/Raphael) (agentic desktop client), and [Desktop Music Visualizer](https://github.com/villariasa/youtube-desktop-player) (audio-reactive desktop player). BS in Information Systems.
 
 ---
 
@@ -131,6 +131,27 @@ Full-stack developer & systems builder in Cebu City, Philippines. I architect en
 A next-generation, **continuous anime streaming & discovery platform** built from the ground up for zero-friction binge-watching. Features dynamic multi-source video routing (VidSrc, MultiStream, Videasy), automated AniSkip intro/outro skipping, sub/dub switching, 50-episode rapid pagination tools, live dropdown search suggestions, and a dual-pane spotlight showcase — backed by resilient MariaDB metadata caching and high-throughput Hono micro-APIs.
 
 `Svelte 5 (Runes)` `Hono v4` `MariaDB` `TypeScript` `Tailwind CSS v4` `AniList GraphQL` `Jikan REST` `AniSkip` `Cloudflare Pages`
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+<div align="right">
+  <img src="https://img.shields.io/badge/%E2%98%85%20FLAGSHIP%20SHOWCASE-GOLD%20TIER-D4AF37?style=for-the-badge&labelColor=1A1533" alt="Gold Flagship Showcase"/>
+</div>
+
+### <img src="icons/musical-note.svg" width="18" height="18" align="center" /> <a href="https://github.com/villariasa/youtube-desktop-player" target="_blank" rel="noopener noreferrer">Desktop Music Visualizer</a> &nbsp;•&nbsp; <a href="https://github.com/villariasa/youtube-desktop-player/releases" target="_blank" rel="noopener noreferrer">Release Downloads (v1.0.0) ↗</a>
+
+<p align="center">
+  <a href="https://github.com/villariasa/youtube-desktop-player" target="_blank" rel="noopener noreferrer">
+    <img src="desktop-music-visualizer-preview.gif" alt="Desktop Music Visualizer - Real-Time Audio-Reactive Waveforms & YouTube Streaming" width="100%" style="border-radius: 10px;"/>
+  </a>
+</p>
+
+An immersive, **desktop-wide audio-reactive music player & dynamic glassmorphism visualizer** engineered for continuous YouTube streaming. Powered by real-time native Windows WASAPI loopback audio capture and 60 FPS FFT frequency analysis, the desktop transforms into living energy with five silky continuous-spline flowing ribbons (vocal lead with glowing crest light beads, sub-bass 808 tectonic surge, interwoven harmonic silk, and high-treble shimmer) and studio peak-meter equalizer bars with floating gravity beads. Features real-time 1:1 wallpaper parallax blending with automated color harmony extraction, YouTube auto-next smart discovery, interactive playlist queue with official Tailwind Heroicons, and cross-platform ready-to-run installers for Windows and Linux.
+
+`Python 3.11` `Edge WebView2 (pywebview)` `WASAPI Loopback` `FFT Frequency Analysis` `HTML5 Audio` `Tailwind Heroicons` `yt-dlp` `PyInstaller` `Inno Setup` `Linux .run`
 
 </td>
 </tr>
