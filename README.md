@@ -1,4 +1,9 @@
-# Medy B. Villarias
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg">
+    <img src="./assets/card-light.svg" width="100%" alt="Medy Villarias — Full-Stack Systems Developer. 15+ shipped systems, 23 public repositories." />
+  </picture>
+</p>
 
 Full-stack developer & systems builder in Cebu City, Philippines. I architect end-to-end operational software, internal tools, and desktop/web clients — bridging normalized relational databases with dependable, reactive user experiences. I care most about how systems hold up in production after the demo, when people depend on the software every day.
 
@@ -8,103 +13,15 @@ Full-stack developer & systems builder in Cebu City, Philippines. I architect en
 
 ---
 
-## <img src="icons/wrench-screwdriver.svg" width="22" height="22" align="center" /> Tech Stack & Ecosystem
+## Tech stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="tech-stack-row1.png" alt="Tech Stack Icons Row 1" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="tech-stack-row2.png" alt="Tech Stack Icons Row 2" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg">
+    <img src="./assets/tech-stack-light.svg" alt="TypeScript, JavaScript, Python, C#, C, Java, PHP, Bash, Svelte, Next.js, React, Tailwind CSS, Vite, Hono, Node.js, Express, FastAPI, PostgreSQL, MySQL, MariaDB, SQLite, Electron, Docker, Git, GitHub, Postman, Figma" width="900">
+  </picture>
 </p>
-
-<table>
-<tr>
-  <td width="22%"><b>Languages</b></td>
-  <td><code>TypeScript</code> <code>JavaScript</code> <code>Python</code> <code>C#</code> <code>C</code> <code>Java</code> <code>PL/pgSQL</code> <code>Bash</code></td>
-</tr>
-<tr>
-  <td width="22%"><b>Frontend & UI</b></td>
-  <td><code>Svelte 5</code> <code>Next.js 15</code> <code>React 19</code> <code>Tailwind CSS v4</code> <code>WebGPU</code> <code>Vite</code></td>
-</tr>
-<tr>
-  <td width="22%"><b>Backend & DBs</b></td>
-  <td><code>Hono v4</code> <code>Node.js</code> <code>Express</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>MySQL</code> <code>MariaDB</code> <code>SQLite</code></td>
-</tr>
-<tr>
-  <td width="22%"><b>Desktop & Tools</b></td>
-  <td><code>Electron</code> <code>Inno Setup</code> <code>Docker</code> <code>Git</code> <code>GitHub</code> <code>Postman</code> <code>Figma</code></td>
-</tr>
-</table>
-
-<details>
-<summary><b>▸ View Categorized Shield Badges</b> (click to expand)</summary>
-<br/>
-
-### <img src="icons/code-bracket.svg" width="18" height="18" align="center" /> Languages & Runtimes
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-1A1533?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D0B1E" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-1A1533?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D0B1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-1A1533?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D0B1E" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-1A1533?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D0B1E" alt="C#"/>
-  <img src="https://img.shields.io/badge/C-1A1533?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D0B1E" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-1A1533?style=for-the-badge&logo=openjdk&logoColor=437291&labelColor=0D0B1E" alt="Java"/>
-  <img src="https://img.shields.io/badge/PL%2FpgSQL-1A1533?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D0B1E" alt="PL/pgSQL"/>
-  <img src="https://img.shields.io/badge/HTML5-1A1533?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D0B1E" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1A1533?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D0B1E" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bash-1A1533?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0D0B1E" alt="Bash"/>
-</p>
-
-### <img src="icons/globe-alt.svg" width="18" height="18" align="center" /> Frontend & Reactive Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Next.js_15-1A1533?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D0B1E" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React_19-1A1533?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D0B1E" alt="React"/>
-  <img src="https://img.shields.io/badge/Svelte-1A1533?style=for-the-badge&logo=svelte&logoColor=FF3E00&labelColor=0D0B1E" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1A1533?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=0D0B1E" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/WebGPU-1A1533?style=for-the-badge&logo=w3c&logoColor=A78BFA&labelColor=0D0B1E" alt="WebGPU"/>
-  <img src="https://img.shields.io/badge/Vite-1A1533?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D0B1E" alt="Vite"/>
-</p>
-
-### <img src="icons/cog-6-tooth.svg" width="18" height="18" align="center" /> Backend, Systems & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-1A1533?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D0B1E" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Hono-1A1533?style=for-the-badge&logo=hono&logoColor=E36002&labelColor=0D0B1E" alt="Hono"/>
-  <img src="https://img.shields.io/badge/Express.js-1A1533?style=for-the-badge&logo=express&logoColor=white&labelColor=0D0B1E" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-1A1533?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0D0B1E" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/REST_APIs-1A1533?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D0B1E" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Stored_Procedures-1A1533?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D0B1E" alt="Stored Procedures"/>
-</p>
-
-### <img src="icons/computer-desktop.svg" width="18" height="18" align="center" /> Desktop & Native Engineering
-<p>
-  <img src="https://img.shields.io/badge/Electron-1A1533?style=for-the-badge&logo=electron&logoColor=47848F&labelColor=0D0B1E" alt="Electron"/>
-  <img src="https://img.shields.io/badge/Inno_Setup-1A1533?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D0B1E" alt="Inno Setup"/>
-  <img src="https://img.shields.io/badge/Chromium_IPC-1A1533?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=0D0B1E" alt="Chromium IPC"/>
-</p>
-
-### <img src="icons/circle-stack.svg" width="18" height="18" align="center" /> Relational Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-1A1533?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D0B1E" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-1A1533?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D0B1E" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-1A1533?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=0D0B1E" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MariaDB-1A1533?style=for-the-badge&logo=mariadb&logoColor=003545&labelColor=0D0B1E" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-1A1533?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D0B1E" alt="MySQL Workbench"/>
-</p>
-
-### <img src="icons/command-line.svg" width="18" height="18" align="center" /> DevOps, Tooling & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-1A1533?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D0B1E" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-1A1533?style=for-the-badge&logo=github&logoColor=E6DFFF&labelColor=0D0B1E" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-1A1533?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D0B1E" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-1A1533?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D0B1E" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-1A1533?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D0B1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/PowerShell-1A1533?style=for-the-badge&logo=powershell&logoColor=5391FE&labelColor=0D0B1E" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/VS_Code-1A1533?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D0B1E" alt="VS Code"/>
-</p>
-
-</details>
 
 <div align="center">
   <img src="divider.png" alt="divider"/>
@@ -200,16 +117,25 @@ A modern, **100% private in-browser invoice & thermal receipt generator**. Zero 
   <img src="divider.png" alt="divider"/>
 </div>
 
-## <img src="icons/chart-bar.svg" width="22" height="22" align="center" /> GitHub Analytics & Operational Metrics
+## On GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=villariasa&show_icons=true&theme=tokyonight&bg_color=0D0B1E&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&border_color=2A1B4D&border_radius=10&hide_rank=false" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=villariasa&layout=compact&theme=tokyonight&bg_color=0D0B1E&title_color=A78BFA&text_color=c9d1d9&border_color=2A1B4D&border_radius=10" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=villariasa&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&disable_animations=true&bg_color=00000000&title_color=8B7CFF&icon_color=38D9F5&text_color=C9D1D9">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=villariasa&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&disable_animations=true&bg_color=00000000&title_color=6E56CF&icon_color=0E7490&text_color=24292F" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=villariasa&layout=compact&hide_border=true&langs_count=8&disable_animations=true&bg_color=00000000&title_color=8B7CFF&text_color=C9D1D9">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=villariasa&layout=compact&hide_border=true&langs_count=8&disable_animations=true&bg_color=00000000&title_color=6E56CF&text_color=24292F" alt="Top languages">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=villariasa&theme=tokyonight&background=0D0B1E&stroke=2A1B4D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border_radius=10" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/contrib-light.svg">
+    <img src="./assets/contrib-light.svg" alt="Contributions over the last 12 months" width="900">
+  </picture>
 </p>
 
 <div align="center">
